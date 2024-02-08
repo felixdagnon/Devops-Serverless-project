@@ -160,6 +160,17 @@ $ git checkout -b Changedprint
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/d919c9d7-363a-4310-bb85-325e6d138ade)
 
+## AWS CodeBuid
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/e64a96be-49c7-4f5d-a144-ad5d1b793712)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/527cac8f-092a-4a7a-aae5-9577c1e77aa9)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/03d49cf7-8c15-4475-8d3c-8fd3eb38eba8)
+
+
+
+
 
 
 
