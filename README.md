@@ -14,5 +14,14 @@ Devops Serverless project
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/45366fe9-63a3-4d74-91e9-a814e337284e)
 
+### Create user groups: 
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1f46161f-9777-4065-ac24-547aa7f1e89c)
+
+### Example Developer Tina: HTTPS Git credentials for AWS CodeCommit 
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/68de2408-0091-4a14-9982-74f58b77ed46)
+
+
 
 
