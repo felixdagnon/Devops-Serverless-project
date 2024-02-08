@@ -24,6 +24,33 @@ Devops Serverless project
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/e6db4e59-fb7c-4747-81f5-5874bbbc8083)
 
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/c2b0683f-1f69-4ec3-8cf4-1e66f43aadba)
+
+### Create CodeCommit repository in the console with the credentias
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/c2a75516-ab6d-4878-a09d-1018b77d8b9c)
+
+
+
+### Example: create text file in the repo and commit change
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/145c08b8-2320-479e-8e3e-c6abffbffea5)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/9786e826-d4dd-4fb9-aef0-2377e0664022)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1da052b6-925f-4349-9162-42fac68c57f9)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
