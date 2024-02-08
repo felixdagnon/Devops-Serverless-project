@@ -18,9 +18,13 @@ Devops Serverless project
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1f46161f-9777-4065-ac24-547aa7f1e89c)
 
-### Example Developer Tina: HTTPS Git credentials for AWS CodeCommit 
+### Example Developer Tina: HTTPS Git credentials for AWS CodeCommit. Copy and paste credentials in notepad and use it to log in mananagement console
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/68de2408-0091-4a14-9982-74f58b77ed46)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/e6db4e59-fb7c-4747-81f5-5874bbbc8083)
+
+
 
 
 
