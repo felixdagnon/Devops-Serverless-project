@@ -70,8 +70,17 @@ $ git push -u origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/cd3d925c-fb88-458b-85bf-d8079f72f8dd)
 
-
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/f50999b3-58e0-4615-8596-3d34d9087ec1)
+
+### Consult CodeCommit console to see the program in the repo
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/c44ae9eb-a33b-4eda-8a59-682f4b65fc7f)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/c8c16f7b-6e86-42d7-a585-a1b5c22c5e8a)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/313f6de1-8e4c-4674-af76-82b7d7f40abf)
+
+
 
 
 
