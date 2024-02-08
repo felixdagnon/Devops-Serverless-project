@@ -58,6 +58,23 @@ https link: https://git-codecommit.us-east-1.amazonaws.com/v1/repos/HelloWord
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/02f50666-655b-466f-8415-e3c844a74a94)
 
+### Execute those command in bash
+
+$ cd HelloWord
+
+$ git add HelloWord.py
+
+$ git commit -m "Add a customery hello word program"
+
+$ git push -u origin main
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/cd3d925c-fb88-458b-85bf-d8079f72f8dd)
+
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/f50999b3-58e0-4615-8596-3d34d9087ec1)
+
+
+
 
 
 
