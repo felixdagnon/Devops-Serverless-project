@@ -148,6 +148,19 @@ $ git checkout -b Changedprint
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/5a6d296c-a5c4-4acd-97eb-20d67b6ff3e3)
 
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/5ac222e6-1d1c-488c-a672-e94919371b41)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/bb819a89-a032-4a8a-9ae8-d4f952a8bb22)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/897e1812-f11a-4064-9e42-01aee91d974b)
+
+## Check change merge in the Master (Main)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/dca4ce21-61ee-4cdf-8087-c7c6d229e0d4)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/d919c9d7-363a-4310-bb85-325e6d138ade)
+
+
 
 
 
