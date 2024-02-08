@@ -40,6 +40,38 @@ Devops Serverless project
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1da052b6-925f-4349-9162-42fac68c57f9)
 
+https link: https://git-codecommit.us-east-1.amazonaws.com/v1/repos/HelloWord
+
+### Clone this repo in Cloud9 with command: git clone
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/474ff0ce-7406-462d-a84c-374992e7810f)
+
+### Push git code from Cloud9IDE to CodeCommit repo in Python syntaxe for example in a new file and run it
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/8da5c1af-6c38-4919-899f-5316c83ac353)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/2cff3f64-b580-4e7a-a529-063f6bdbfaa9)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/b8642758-482b-4dfc-9d3f-8e28d7286c62)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1991fa26-e6c8-476e-a6b6-ac4ef952aebe)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/02f50666-655b-466f-8415-e3c844a74a94)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
