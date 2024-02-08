@@ -106,6 +106,8 @@ $ git push -u origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/574534a1-32c7-4ebe-a37d-2327f492edbe)
 
+## Demo
+
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/623a1716-9c3b-4b4e-8395-6d131f9d7092)
 
 ### Code review: create a Branch and Pull Request to request this change to be merge to the Master or Main
@@ -119,6 +121,23 @@ $ git commit -a -m "Changed print statement"
 $ git checkout -b Changedprint
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/91532a42-b194-424b-8238-c4f8a5174112)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/4dccd286-35cc-44ee-8488-68ed6f951cef)
+
+## Pull request in Bob repository
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/5ec6dc23-3fbd-4d4a-acaa-fc60af970d28)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/b68aaf1d-2faf-4375-976d-a73788dd29f4)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/7850c77d-da51-4da5-8936-4c166e1579c3)
+
+
+
+
+
+
+
 
 
 
