@@ -1,4 +1,4 @@
-# Devops-Serverless-project
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/c5e4ac83-7706-4cbc-811c-7b1a6410e578)# Devops-Serverless-project
 
 Devops Serverless project
 
@@ -138,7 +138,22 @@ $ git checkout -b Changedprint
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/a5bda4c8-3ff5-4db1-bea5-b4170f377876)
 
-## 
+## Tina reviews and merge to the Master(main)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/70fb7541-6d87-4ee3-a48e-88ee4bafb257)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/78e5b150-d933-4eb2-a0bc-38fe980f71e7)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/5c9e23d4-6dc1-4a2b-aa0c-a4b488c84b2e)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/5a6d296c-a5c4-4acd-97eb-20d67b6ff3e3)
+
+
+
+
+
+
+
 
 
 
