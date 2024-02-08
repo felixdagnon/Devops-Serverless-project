@@ -18,6 +18,8 @@ Devops Serverless project
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1f46161f-9777-4065-ac24-547aa7f1e89c)
 
+# CodeCommit
+
 ### Example Developer Tina: HTTPS Git credentials for AWS CodeCommit. Copy and paste credentials in notepad and use it to log in mananagement console
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/68de2408-0091-4a14-9982-74f58b77ed46)
@@ -29,8 +31,6 @@ Devops Serverless project
 ### Create CodeCommit repository in the console with the credentias
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/c2a75516-ab6d-4878-a09d-1018b77d8b9c)
-
-
 
 ### Example: create text file in the repo and commit change
 
@@ -79,6 +79,34 @@ $ git push -u origin main
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/c8c16f7b-6e86-42d7-a585-a1b5c22c5e8a)
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/313f6de1-8e4c-4674-af76-82b7d7f40abf)
+
+## AWS CodeCommit Notification and Trigger in the repository
+
+## AWS CodeCommit Notification SNS by email
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/506bc1c9-d60c-4532-bfa0-2ecd11617c57
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/0bfa607d-e479-4733-a978-882d4d0d316f)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/0bec096e-8491-439d-9cd1-b92f5a1f2ad6)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/6193983e-efbf-4a64-b01a-3b79e4595a03)
+
+## AWS CodeCommit Notification SNS by Trigger
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/03f7d89f-e7a2-4912-9a16-940650fac5cd)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
