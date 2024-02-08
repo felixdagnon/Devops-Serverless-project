@@ -100,6 +100,34 @@ $ git push -u origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/d62e8ac1-7e4e-4e53-b332-46c863ff12ab)
 
+## AWS CodeCommit Branch and pull requests
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/bf941818-f359-42d0-864d-eb4d0edf1a9f)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/574534a1-32c7-4ebe-a37d-2327f492edbe)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/623a1716-9c3b-4b4e-8395-6d131f9d7092)
+
+### Code review: create a Branch and Pull Request to request this change to be merge to the Master or Main
+
+$ git commit -a -m "Changed print statement"
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/08e26ee4-e7c1-4bdf-89f5-a26feb13d521)
+
+## Create Branch
+
+$ git checkout -b Changedprint
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/91532a42-b194-424b-8238-c4f8a5174112)
+
+
+
+
+
+
+
+
+
 
 
 
