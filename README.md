@@ -92,9 +92,16 @@ $ git push -u origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/6193983e-efbf-4a64-b01a-3b79e4595a03)
 
-## AWS CodeCommit Notification SNS by Trigger
+## AWS CodeCommit Notification by Trigger SNS or lambda
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/03f7d89f-e7a2-4912-9a16-940650fac5cd)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/b7e8a194-7b46-48cd-871a-46b9c71a8a62)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/d62e8ac1-7e4e-4e53-b332-46c863ff12ab)
+
+
+
 
 
 
