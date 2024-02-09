@@ -346,6 +346,17 @@ $ git push origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1782a5f9-a7a8-4893-bf48-9f2202a6a63e)
 
+## Change python version to take the version from AWS codebuild environnement if issue
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/115f5225-4884-462e-ac14-fbe598b30a01)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/3510e571-539d-46b1-94a9-6fed8cf47db2)
+
+
+
+
+
+
 
 
 
