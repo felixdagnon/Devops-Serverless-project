@@ -306,6 +306,32 @@ artifacts:
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/a55aa0d8-4fe4-405f-bda8-15185b2c4064)
 
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/fe4529c2-d122-4e0f-aa23-1e8e0948a24b)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/3d70f4b5-f44b-4fdb-acf4-9e6c8be5240f)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/94333645-1fb7-499c-b5de-31e85553db61)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/5f5f88c1-d99d-4f92-b85a-0a868216c877)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/aca4a2ee-1eb4-454a-996d-5f0d0a9592fd)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/0140e483-d045-40f1-b8ce-469121f5f1ab)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/3c1b333d-885c-4468-8460-f01cb7e0d51a)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/c030af96-eae1-40b7-ad24-43d2d9c4f013)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
