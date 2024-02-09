@@ -273,7 +273,8 @@ $ touch lambda_function.py
 
 -  buildspec.yml
 
-   version: 0.2
+  ```json
+ version: 0.2
 phases:
   install:
     runtime-versions:
