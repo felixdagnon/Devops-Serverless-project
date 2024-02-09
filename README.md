@@ -14,11 +14,13 @@ Devops Serverless project
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/45366fe9-63a3-4d74-91e9-a814e337284e)
 
+# AWS CodeCommit
+
 ### Create user groups: 
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1f46161f-9777-4065-ac24-547aa7f1e89c)
 
-# CodeCommit
+## CodeCommit Demo
 
 ### Example Developer Tina: HTTPS Git credentials for AWS CodeCommit. Copy and paste credentials in notepad and use it to log in mananagement console
 
@@ -160,7 +162,7 @@ $ git checkout -b Changedprint
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/d919c9d7-363a-4310-bb85-325e6d138ade)
 
-## AWS CodeBuid
+# CodeBuild 
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/e64a96be-49c7-4f5d-a144-ad5d1b793712)
 
