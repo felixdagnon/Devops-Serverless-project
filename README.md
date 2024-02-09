@@ -232,17 +232,20 @@ $ touch lambda_function.py
 
 - lambda_function.py
 
-/* import json
+/* 
+
+import json
 import boto3
 import requests
-
-
 def lambda_handler(event, context):
+
     # TODO implement
+    
     # api-endpoint
     print(event)
     URL = "http://maps.googleapis.com/maps/api/geocode/json"
     location = event['landmark']
+    
     # defining a params dict for the parameters to be sent to the API
     PARAMS = {'address':location}
  
