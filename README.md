@@ -168,6 +168,27 @@ $ git checkout -b Changedprint
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/03d49cf7-8c15-4475-8d3c-8fd3eb38eba8)
 
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/ae833518-3440-4cb8-83e6-bdb1efe49312)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/2e4ef050-f391-4b7d-88a8-517dba50930c)
+
+### For use case, we can use lambda (or jenkins or CodeDeploy) to deploy CI/CD flow for lambda application 
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/6ef5bea4-f17e-4cd4-8009-d8eaeace8c8b)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/06b69dc4-705d-4f7a-9d1b-74eebfecb72e)
+
+### AWS CodeBuild BuildSpec file
+
+In this step, you create a build specification (build spec) file. A buildspec is a collection of build commands and related settings, in YAML format, that CodeBuild uses to run a build. Without a build spec, CodeBuild cannot successfully convert your build input into build output or locate the build output artifact in the build environment to upload to your output bucket.
+
+Create this file, name it buildspec.yml, and then save it in the root (top level) directory.
+
+
+
+
+
+
 
 
 
