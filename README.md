@@ -321,10 +321,12 @@ artifacts:
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/c030af96-eae1-40b7-ad24-43d2d9c4f013)
 
 
-#" Push code lambda_function.py and Buildspec.yml from Cloud9 main repo to Girhub repository
+## Push code lambda_function.py and Buildspec.yml from Cloud9 main repo to Girhub repository
 
 $ git add .
+
 $ git commit -m "added code and buildspec"
+
 $ git push origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/d6b48dc6-0c54-4399-b247-5801e888985c)
