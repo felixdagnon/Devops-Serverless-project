@@ -310,8 +310,6 @@ artifacts:
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/3d70f4b5-f44b-4fdb-acf4-9e6c8be5240f)
 
-![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/94333645-1fb7-499c-b5de-31e85553db61)
-
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/5f5f88c1-d99d-4f92-b85a-0a868216c877)
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/aca4a2ee-1eb4-454a-996d-5f0d0a9592fd)
