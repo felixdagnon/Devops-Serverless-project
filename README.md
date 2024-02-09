@@ -232,7 +232,7 @@ $ touch lambda_function.py
 
 - lambda_function.py
 
-import json
+/* import json
 import boto3
 import requests
 
@@ -259,6 +259,7 @@ def lambda_handler(event, context):
     formatted_address = data['results'][0]['formatted_address']
  
     # printing the output
+    */
 
 
 -  buildspec.yml
