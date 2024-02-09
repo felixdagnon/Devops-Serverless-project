@@ -331,8 +331,20 @@ $ git push origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/d6b48dc6-0c54-4399-b247-5801e888985c)
 
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/883fd201-cc43-4117-843a-c169c5461116)
+
+## Check AWS Codebuild console: code is running
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/f8ef7c26-b9c7-41c6-bd17-c833ea6c60bf)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/41f13f59-edad-4c2c-b101-3cad489fca55)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/4c0a12bd-202a-4958-8c80-4a3fd4d96482)
 
 
+## Check bucket for the zip file deloyed in s3 bucket
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1782a5f9-a7a8-4893-bf48-9f2202a6a63e)
 
 
 
