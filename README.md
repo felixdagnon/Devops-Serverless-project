@@ -180,12 +180,54 @@ $ git checkout -b Changedprint
 
 ### AWS CodeBuild BuildSpec file
 
-In this step, you create a build specification (build spec) file. A buildspec is a collection of build commands and related settings, in YAML format, that CodeBuild uses to run a build. Without a build spec, CodeBuild cannot successfully convert your build input into build output or locate the build output artifact in the build environment to upload to your output bucket.
+In this step, you create a build specification (build spec) file. A buildspec is a collection of build commands and related settings,
+in YAML format, that CodeBuild uses to run a build. Without a build spec, CodeBuild cannot successfully convert your build input 
+into build output or locate the build output artifact in the build environment to upload to your output bucket.
 
 Create this file, name it buildspec.yml, and then save it in the root (top level) directory.
 
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      java: corretto11
+  pre_build:
+    commands:
+      - echo Nothing to do in the pre_build phase...
+  build:
+    commands:
+      - echo Build started on `date`
+      - mvn install
+  post_build:
+    commands:
+      - echo Build completed on `date`
+artifacts:
+  files:
+    - target/messageUtil-1.0.jar
 
 
+
+
+### Artifacts
+
+artifacts represents the set of build output artifacts that CodeBuild uploads to the output bucket. files represents
+the files to include in the build output. CodeBuild uploads the single messageUtil-1.0.jar file found in the target 
+relative directory in the build environment. The file name messageUtil-1.0.jar and the directory name target are based
+on the way Apache Maven creates and stores build output artifacts for this example only. In your own builds, these file 
+names and directories are different.
+
+
+(root directory name)
+    |-- pom.xml
+    |-- buildspec.yml
+    `-- src
+         |-- main
+         |     `-- java
+         |           `-- MessageUtil.java
+         `-- test
+               `-- java
+                     `-- TestMessageUtil.java
 
 
 
