@@ -202,8 +202,36 @@ relative directory in the build environment. The file name messageUtil-1.0.jar a
 on the way Apache Maven creates and stores build output artifacts for this example only. In your own builds, these file 
 names and directories are different.
 
-
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/62299da3-467d-48eb-93ed-816177e473f3)
+
+
+## Use case: AWs CodeBuild for CI/CD flow lambda application deploy with lambda
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/66e66ff8-26f0-49d2-8cb8-b2417a4a9c2b)
+
+
+### Create github repository and clone it in Cloud9
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/b9a221b7-57e3-452e-900f-437a7a6b7cd4)
+
+###  Execute those command in cloud9
+
+To clone Git Repo: 
+
+$ git clone https://github.com/felixdagnon/codebuild-demo.git
+
+Create files buildspec.yml and lambda_function.py in codebuild-demo repository :
+
+$ cd codebuild-demo
+$ touch buildspec.yml
+$ touch lambda_function.py
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/cd0c5ab7-db51-47c4-8452-c9b8e18fb0f1)
+
+
+
+
+
 
 
 
