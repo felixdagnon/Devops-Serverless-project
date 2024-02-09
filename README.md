@@ -186,27 +186,7 @@ into build output or locate the build output artifact in the build environment t
 
 Create this file, name it buildspec.yml, and then save it in the root (top level) directory.
 
-version: 0.2
-
-phases:
-  install:
-    runtime-versions:
-      java: corretto11
-  pre_build:
-    commands:
-      - echo Nothing to do in the pre_build phase...
-  build:
-    commands:
-      - echo Build started on `date`
-      - mvn install
-  post_build:
-    commands:
-      - echo Build completed on `date`
-artifacts:
-  files:
-    - target/messageUtil-1.0.jar
-
-
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1787bf22-7e88-4e20-8faa-780665659a53)
 
 
 ### Artifacts
@@ -218,16 +198,8 @@ on the way Apache Maven creates and stores build output artifacts for this examp
 names and directories are different.
 
 
-(root directory name)
-    |-- pom.xml
-    |-- buildspec.yml
-    `-- src
-         |-- main
-         |     `-- java
-         |           `-- MessageUtil.java
-         `-- test
-               `-- java
-                     `-- TestMessageUtil.java
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/62299da3-467d-48eb-93ed-816177e473f3)
+
 
 
 
