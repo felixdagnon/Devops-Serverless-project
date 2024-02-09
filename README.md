@@ -232,8 +232,7 @@ $ touch lambda_function.py
 
 - lambda_function.py
 
-#/* 
-
+    ```json
 import json
 
 import boto3
@@ -271,7 +270,8 @@ def lambda_handler(event, context):
     output={"address":formatted_address} 
     return output
     #return('Hello from %s'%formatted_address)
-    */
+    
+    ```
 
 
 -  buildspec.yml
