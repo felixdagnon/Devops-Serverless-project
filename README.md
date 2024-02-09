@@ -232,7 +232,7 @@ $ touch lambda_function.py
 
 - lambda_function.py
 
-/* 
+#/* 
 
 import json
 
