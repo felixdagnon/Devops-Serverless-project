@@ -269,6 +269,9 @@ $ touch lambda_function.py
     #return('Hello from %s'%formatted_address)
     ```
 
+    ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/3a58f143-9143-4e86-baf5-d6bef8a07dd0)
+
+
 
 -  buildspec.yml
 
@@ -292,6 +295,8 @@ artifacts:
   files:
     - '**/*'
 ```
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/ab1b7dd5-0925-4934-a100-9e49a80a0475)
 
 
 
