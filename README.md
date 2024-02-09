@@ -298,6 +298,16 @@ artifacts:
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/ab1b7dd5-0925-4934-a100-9e49a80a0475)
 
+## Create rhe project in aws CodeBuild
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/e0cb4e9a-e9a9-4c38-9a00-d2d867826a81)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/7d198180-9015-4ecd-8046-70ed6a1a6e5e)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/a55aa0d8-4fe4-405f-bda8-15185b2c4064)
+
+
+
 
 
 
