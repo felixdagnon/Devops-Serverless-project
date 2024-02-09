@@ -228,7 +228,59 @@ $ touch lambda_function.py
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/cd0c5ab7-db51-47c4-8452-c9b8e18fb0f1)
 
+### Copy and paste code in the files
 
+- lambda_function.py
+
+import json
+import boto3
+import requests
+
+def lambda_handler(event, context):
+    # TODO implement
+    # api-endpoint
+    print(event)
+    URL = "http://maps.googleapis.com/maps/api/geocode/json"
+    location = event['landmark']
+    # defining a params dict for the parameters to be sent to the API
+    PARAMS = {'address':location}
+ 
+    # sending get request and saving the response as response object
+    r = requests.get(url = URL, params = PARAMS)
+ 
+    # extracting data in json format
+    data = r.json()
+ 
+ 
+    # extracting latitude, longitude and formatted address 
+    # of the first matching location
+    latitude = data['results'][0]['geometry']['location']['lat']
+    longitude = data['results'][0]['geometry']['location']['lng']
+    formatted_address = data['results'][0]['formatted_address']
+ 
+    # printing the output
+
+
+-  buildspec.yml
+
+   version: 0.2
+phases:
+  install:
+    runtime-versions:
+      python: 3.7
+  build:
+    commands:
+      - echo Build started on `date`
+      - echo Compiling the Python code...
+      - pip install requests -t .
+  post_build:
+    commands:
+      - echo Build completed on `date`
+      - pwd
+      - ls -al
+artifacts:
+  files:
+    - '**/*'
 
 
 
