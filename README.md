@@ -12,9 +12,10 @@ Devops Serverless project
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/e5675810-fcb5-4812-afa3-0c73a81ffa34)
 
+# AWS CodeCommit
+
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/45366fe9-63a3-4d74-91e9-a814e337284e)
 
-# AWS CodeCommit
 
 ### Create user groups: 
 
