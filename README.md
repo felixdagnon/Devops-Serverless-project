@@ -267,7 +267,6 @@ $ touch lambda_function.py
     output={"address":formatted_address} 
     return output
     #return('Hello from %s'%formatted_address)
-    
     ```
 
 
@@ -292,6 +291,7 @@ phases:
 artifacts:
   files:
     - '**/*'
+```
 
 
 
