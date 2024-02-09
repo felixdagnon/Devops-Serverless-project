@@ -233,13 +233,10 @@ $ touch lambda_function.py
 - lambda_function.py
 
     ```json
-import json
-
-import boto3
-
-import requests
-
-def lambda_handler(event, context):
+   import json
+   import boto3
+   import requests
+   def lambda_handler(event, context):
 
     # TODO implement
     
