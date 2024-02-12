@@ -368,6 +368,10 @@ $ git push origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/4fcc8a57-e549-43ca-b2f9-9f603cb1c5fc)
 
+Create a deployement group wirh AppSpec editor
+
+
+
 
 
 
