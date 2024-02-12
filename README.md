@@ -382,6 +382,13 @@ $ git push origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/10d9f023-4070-486b-988d-54718da1ce8d)
 
+### Alias ponting to version 5
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/6d778a76-1ae1-47cc-bf9b-d511d328a68f)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/16b84203-d678-4ef9-a675-ecb886a22884)
+
+
 
 
 
