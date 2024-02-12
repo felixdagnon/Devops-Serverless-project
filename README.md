@@ -352,6 +352,37 @@ $ git push origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/3510e571-539d-46b1-94a9-6fed8cf47db2)
 
+# Code deploy for lambda
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/a61a9c98-d629-4346-b627-3a410658f85a)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/59ca8e44-8e69-4ae3-8fbb-ea880631a7f0)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1fc79811-35dc-413c-9e14-e52b9c77bdd1)
+
+### Create DeployementGroup: how to route trafic to a new version of lambda and also rollback
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/2459f83a-5008-4d0d-b9fe-b4a63397ae8f)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/9364f57f-f7d2-41b4-bbb7-fa71fba1fb66)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/4fcc8a57-e549-43ca-b2f9-9f603cb1c5fc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
