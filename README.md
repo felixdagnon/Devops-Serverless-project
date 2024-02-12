@@ -354,9 +354,12 @@ $ git push origin main
 
 # Code deploy for lambda
 
+
+
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/a61a9c98-d629-4346-b627-3a410658f85a)
 
-![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/59ca8e44-8e69-4ae3-8fbb-ea880631a7f0)
+
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/ab7998b1-4474-4925-b6d9-38542e289756)
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1fc79811-35dc-413c-9e14-e52b9c77bdd1)
 
