@@ -232,7 +232,7 @@ $ touch lambda_function.py
 
 - lambda_function.py
 
-    ```json
+    ```py
    import json
    import boto3
    import requests
