@@ -275,7 +275,7 @@ $ touch lambda_function.py
 
 -  buildspec.yml
 
-  ```json
+  ```yml
  version: 0.2
 phases:
   install:
