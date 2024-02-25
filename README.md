@@ -33,7 +33,7 @@ Devops Serverless project
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/c2b0683f-1f69-4ec3-8cf4-1e66f43aadba)
 
-### Create CodeCommit repository in the console with the credentias
+### Create CodeCommit repository in the console with the credentials
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/c2a75516-ab6d-4878-a09d-1018b77d8b9c)
 
