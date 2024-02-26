@@ -1,4 +1,4 @@
-![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/c5e4ac83-7706-4cbc-811c-7b1a6410e578)# Devops-Serverless-project
+# Devops-Serverless-project
 
 Devops Serverless project
 
