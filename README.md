@@ -48,7 +48,9 @@ https link: https://git-codecommit.us-east-1.amazonaws.com/v1/repos/HelloWord
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/474ff0ce-7406-462d-a84c-374992e7810f)
 
-## Push git code from Cloud9IDE to CodeCommit repo in Python syntaxe for example in a new file and run it
+## Push git code from Cloud9IDE to CodeCommit repo 
+
+Create HelloWord folder and put in Python file for example
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/8da5c1af-6c38-4919-899f-5316c83ac353)
 
