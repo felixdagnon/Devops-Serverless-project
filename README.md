@@ -77,7 +77,7 @@ $ git push -u origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/f50999b3-58e0-4615-8596-3d34d9087ec1)
 
-### Consult CodeCommit console to see the program in the repo
+## Consult CodeCommit console to see the program in the repo
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/c44ae9eb-a33b-4eda-8a59-682f4b65fc7f)
 
