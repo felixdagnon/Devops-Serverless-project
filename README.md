@@ -111,7 +111,7 @@ $ git push -u origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/574534a1-32c7-4ebe-a37d-2327f492edbe)
 
-## Demo
+In real project for example
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/623a1716-9c3b-4b4e-8395-6d131f9d7092)
 
