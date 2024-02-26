@@ -89,7 +89,7 @@ $ git push -u origin main
 
 ### AWS CodeCommit Notification SNS by email
 
-![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/506bc1c9-d60c-4532-bfa0-2ecd11617c57
+![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/506bc1c9-d60c-4532-bfa0-2ecd11617c57)
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/0bfa607d-e479-4733-a978-882d4d0d316f)
 
