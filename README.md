@@ -2,7 +2,7 @@
 
 Devops Serverless project
 
-# CI/CD flow for lambda using CodeCommit, CodeBuild, Cloud9
+# 1-CI/CD flow for lambda using CodeCommit, CodeBuild, Cloud9
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/59fa01b6-afb1-4517-b37e-36faa7fc8029)
 
@@ -85,9 +85,9 @@ $ git push -u origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/313f6de1-8e4c-4674-af76-82b7d7f40abf)
 
-## AWS CodeCommit Notification and Trigger in the repository
+# AWS CodeCommit Notification and Trigger in the repository
 
-### AWS CodeCommit Notification SNS by email
+## AWS CodeCommit Notification SNS by email
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/506bc1c9-d60c-4532-bfa0-2ecd11617c57)
 
@@ -97,7 +97,7 @@ $ git push -u origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/6193983e-efbf-4a64-b01a-3b79e4595a03)
 
-### AWS CodeCommit Notification by Trigger SNS or lambda
+## AWS CodeCommit Notification by Trigger SNS or lambda
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/03f7d89f-e7a2-4912-9a16-940650fac5cd)
 
@@ -105,7 +105,7 @@ $ git push -u origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/d62e8ac1-7e4e-4e53-b332-46c863ff12ab)
 
-# AWS CodeCommit Branch and pull requests
+# 2-AWS CodeCommit Branch and pull requests
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/bf941818-f359-42d0-864d-eb4d0edf1a9f)
 
