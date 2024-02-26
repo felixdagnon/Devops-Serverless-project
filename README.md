@@ -85,7 +85,7 @@ $ git push -u origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/313f6de1-8e4c-4674-af76-82b7d7f40abf)
 
-# AWS CodeCommit Notification and Trigger in the repository
+# 2-AWS CodeCommit Notification and Trigger in the repository
 
 ## AWS CodeCommit Notification SNS by email
 
@@ -115,7 +115,7 @@ $ git push -u origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/623a1716-9c3b-4b4e-8395-6d131f9d7092)
 
-### Code review: create a Branch and Pull Request to request this change to be merge to the Master or Main
+## Code review: create a Branch and Pull Request to request this change to be merge to the Master or Main
 
 $ git commit -a -m "Changed print statement"
 
