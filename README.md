@@ -20,9 +20,9 @@ Create user groups:
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1f46161f-9777-4065-ac24-547aa7f1e89c)
 
-CodeCommit Demo
+Example Developer Tina: HTTPS Git credentials for AWS CodeCommit. 
 
-Example Developer Tina: HTTPS Git credentials for AWS CodeCommit. Copy and paste credentials in notepad and use it to log in mananagement console
+Copy and paste credentials in notepad and use it to log in mananagement console
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/68de2408-0091-4a14-9982-74f58b77ed46)
 
@@ -48,8 +48,6 @@ https link: https://git-codecommit.us-east-1.amazonaws.com/v1/repos/HelloWord
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/474ff0ce-7406-462d-a84c-374992e7810f)
 
-## Push git code from Cloud9IDE to CodeCommit repo 
-
 ## Create HelloWord folder and put in Python file HelloWord.py for example
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/8da5c1af-6c38-4919-899f-5316c83ac353)
@@ -61,6 +59,9 @@ https link: https://git-codecommit.us-east-1.amazonaws.com/v1/repos/HelloWord
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1991fa26-e6c8-476e-a6b6-ac4ef952aebe)
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/02f50666-655b-466f-8415-e3c844a74a94)
+
+
+## Push git code from Cloud9IDE to CodeCommit repo 
 
 Execute those command in bash
 
