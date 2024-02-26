@@ -12,20 +12,17 @@ Devops Serverless project
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/e5675810-fcb5-4812-afa3-0c73a81ffa34)
 
-
 ## AWS CodeCommit
-
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/45366fe9-63a3-4d74-91e9-a814e337284e)
 
-
-### Create user groups: 
+Create user groups: 
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1f46161f-9777-4065-ac24-547aa7f1e89c)
 
-## CodeCommit Demo
+CodeCommit Demo
 
-### Example Developer Tina: HTTPS Git credentials for AWS CodeCommit. Copy and paste credentials in notepad and use it to log in mananagement console
+Example Developer Tina: HTTPS Git credentials for AWS CodeCommit. Copy and paste credentials in notepad and use it to log in mananagement console
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/68de2408-0091-4a14-9982-74f58b77ed46)
 
@@ -33,11 +30,11 @@ Devops Serverless project
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/c2b0683f-1f69-4ec3-8cf4-1e66f43aadba)
 
-### Create CodeCommit repository in the console with the credentials
+Create CodeCommit repository in the console with the credentials
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/c2a75516-ab6d-4878-a09d-1018b77d8b9c)
 
-### Example: create text file in the repo and commit change
+Example: create text file in the repo and commit change
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/145c08b8-2320-479e-8e3e-c6abffbffea5)
 
@@ -47,7 +44,7 @@ Devops Serverless project
 
 https link: https://git-codecommit.us-east-1.amazonaws.com/v1/repos/HelloWord
 
-### Clone this repo in Cloud9 with command: git clone
+## Clone this repo in Cloud9 with command: git clone
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/474ff0ce-7406-462d-a84c-374992e7810f)
 
@@ -63,7 +60,7 @@ https link: https://git-codecommit.us-east-1.amazonaws.com/v1/repos/HelloWord
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/02f50666-655b-466f-8415-e3c844a74a94)
 
-### Execute those command in bash
+Execute those command in bash
 
 $ cd HelloWord
 
