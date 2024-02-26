@@ -2,7 +2,7 @@
 
 Devops Serverless project
 
-# CI/CD flow for lambda
+# CI/CD flow for lambda using CodeCommit, CodeBuild, Cloud9
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/59fa01b6-afb1-4517-b37e-36faa7fc8029)
 
