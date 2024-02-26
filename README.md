@@ -105,7 +105,7 @@ $ git push -u origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/d62e8ac1-7e4e-4e53-b332-46c863ff12ab)
 
-# 2-AWS CodeCommit Branch and pull requests
+# 3-AWS CodeCommit Branch and pull requests
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/bf941818-f359-42d0-864d-eb4d0edf1a9f)
 
@@ -165,7 +165,7 @@ $ git checkout -b Changedprint
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/d919c9d7-363a-4310-bb85-325e6d138ade)
 
-# CodeBuild 
+# 4-CodeBuild 
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/e64a96be-49c7-4f5d-a144-ad5d1b793712)
 
@@ -177,13 +177,13 @@ $ git checkout -b Changedprint
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/2e4ef050-f391-4b7d-88a8-517dba50930c)
 
-### For use case, we can use lambda (or jenkins or CodeDeploy) to deploy CI/CD flow for lambda application 
+## For use case, we can use lambda (or jenkins or CodeDeploy) to deploy CI/CD flow for lambda application 
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/6ef5bea4-f17e-4cd4-8009-d8eaeace8c8b)
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/06b69dc4-705d-4f7a-9d1b-74eebfecb72e)
 
-### AWS CodeBuild BuildSpec file
+## AWS CodeBuild BuildSpec file
 
 In this step, you create a build specification (build spec) file. A buildspec is a collection of build commands and related settings,
 in YAML format, that CodeBuild uses to run a build. Without a build spec, CodeBuild cannot successfully convert your build input 
@@ -194,7 +194,7 @@ Create this file, name it buildspec.yml, and then save it in the root (top level
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1787bf22-7e88-4e20-8faa-780665659a53)
 
 
-### Artifacts
+## Artifacts
 
 artifacts represents the set of build output artifacts that CodeBuild uploads to the output bucket. files represents
 the files to include in the build output. CodeBuild uploads the single messageUtil-1.0.jar file found in the target 
@@ -205,16 +205,16 @@ names and directories are different.
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/62299da3-467d-48eb-93ed-816177e473f3)
 
 
-## Use case: AWs CodeBuild for CI/CD flow lambda application deploy with lambda
+# 5-Use case: AWs CodeBuild for CI/CD flow lambda application deploy with lambda
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/66e66ff8-26f0-49d2-8cb8-b2417a4a9c2b)
 
 
-### Create github repository and clone it in Cloud9
+## Create github repository and clone it in Cloud9
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/b9a221b7-57e3-452e-900f-437a7a6b7cd4)
 
-###  Execute those command in cloud9
+##  Execute those command in cloud9
 
 To clone Git Repo: 
 
@@ -228,7 +228,7 @@ $ touch lambda_function.py
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/cd0c5ab7-db51-47c4-8452-c9b8e18fb0f1)
 
-### Copy and paste code in the files
+ Copy and paste code in the files
 
 - lambda_function.py
 
@@ -353,20 +353,15 @@ $ git push origin main
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/3510e571-539d-46b1-94a9-6fed8cf47db2)
 
 
-
-
-# Code deploy for lambda
-
-
+# 6-Code deploy for lambda
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/a61a9c98-d629-4346-b627-3a410658f85a)
-
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/ab7998b1-4474-4925-b6d9-38542e289756)
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/1fc79811-35dc-413c-9e14-e52b9c77bdd1)
 
-### Create DeployementGroup: how to route trafic to a new version of lambda and also rollback
+## Create DeployementGroup: how to route trafic to a new version of lambda and also rollback
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/2459f83a-5008-4d0d-b9fe-b4a63397ae8f)
 
@@ -374,18 +369,17 @@ $ git push origin main
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/4fcc8a57-e549-43ca-b2f9-9f603cb1c5fc)
 
-### Create a deployement group with AppSpec editor
+## Create a deployement group with AppSpec editor
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/cb14a855-d3cd-46ed-b305-83b27a7aca3d)
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/ae4cbb1f-7237-4c32-9ef6-074fdb922c89)
 
-
-### Deployement OK
+ Deployement OK
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/10d9f023-4070-486b-988d-54718da1ce8d)
 
-### Alias ponting to version 5
+## Alias ponting to version 5
 
 ![image](https://github.com/felixdagnon/Devops-Serverless-project/assets/91665833/6d778a76-1ae1-47cc-bf9b-d511d328a68f)
 
