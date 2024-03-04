@@ -1,6 +1,5 @@
-# Devops-Serverless-project
+CI/CD flow for lambda using CodeCommit, CodeBuild, Cloud9, Notification SNS by email
 
-Devops Serverless project
 
 # 1-CI/CD flow for lambda using CodeCommit, CodeBuild, Cloud9
 
